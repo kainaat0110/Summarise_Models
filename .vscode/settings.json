@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./moodle_scraper/moodle_scraper/spiders"
+    ]
+}

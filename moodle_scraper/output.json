@@ -1,0 +1,12 @@
+[
+{
+    "course_title": "My first course", 
+    "course_link": "https://sandbox.moodledemo.net/course/view.php?id=2", 
+    "teacher_name": "Terri Teacher"
+},
+{
+    "course_title": "My second course", 
+    "course_link": "https://sandbox.moodledemo.net/course/view.php?id=3", 
+    "teacher_name": "Terri Teacher"
+}
+]
